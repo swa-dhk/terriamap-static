@@ -1,0 +1,19 @@
+{
+  "homeCamera": {
+    "north": -35,
+    "east": 152,
+    "south": -47,
+    "west": 140
+  },
+  "catalog": [
+    {
+      "name": "FOSS4G Group",
+      "type": "group",
+      "members": []
+    }
+  ],
+  "viewerMode": "3dSmooth",
+  "baseMaps": {
+    "previewBaseMapId": "basemap-positron"
+  }
+}
